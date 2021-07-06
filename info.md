@@ -1,17 +1,8 @@
 ### Code the Flag Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* <i class="fas fa-egg" style="color:#2ADA08;"></i> Incubator Project
+* <i class="fas fa-book" style="color:#233e81;"></i> Documentation
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+* [Discord](https://discord.gg/xw8BtcjaQs)
