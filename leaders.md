@@ -1,2 +1,3 @@
 ### Leaders
-* [Fernando Guisso](mailto:fguisso@gmail.com)
+* [Allan Kardec](mailto:allan.kardec@owasp.org)
+* [Fernando Guisso](mailto:fernando.guisso@owasp.org)
